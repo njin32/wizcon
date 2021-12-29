@@ -22,4 +22,3 @@ If you'd like to contribute to WizCoin, check out https://github.com/asweigart/w
 
 Adding a few words
 
-HaHaHa
