@@ -13,7 +13,7 @@ To install with pip, run:
 Quickstart Guide
 ----------------
 
-TODO - fill this in later
+Here's some example code demo
 
 Contribute
 ----------
